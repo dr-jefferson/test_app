@@ -1,1 +1,1 @@
-print "Hugo";
+print "Hugo 1";
